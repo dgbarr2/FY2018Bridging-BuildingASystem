@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Interaction of two banks.}{2}{section.1}
+\contentsline {section}{\numberline {2}Building a banking system.}{12}{section.2}
+\contentsline {section}{\numberline {3}Adding a commercial banking clearing house.}{22}{section.3}
+\contentsline {section}{\numberline {4}Another reason for forming a CBCH.}{34}{section.4}
+\contentsline {section}{\numberline {5}CBCH membership conditions.}{36}{section.5}
+\contentsline {subsection}{\numberline {5.1}CBCH membership benefits.}{37}{subsection.5.1}
+\contentsline {section}{\numberline {6}Banking panics: What can the central bank do?}{38}{section.6}
+\contentsline {subsection}{\numberline {6.1}CBCH loan certificates.}{40}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}When is a CBCH likely to fail?}{42}{subsection.6.2}
+\contentsline {section}{\numberline {7}Differences between the CBCH-cental-bank system and today's central banks.}{43}{section.7}
+\contentsline {section}{\numberline {8}Questions.}{45}{section.8}
